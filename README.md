@@ -8,7 +8,7 @@ But I've always been pulled toward the bigger picture — understanding users, t
 
 Right now, I'm **actively exploring AI** — building agentic systems, experimenting with multi-agent orchestration, and working on making cloud infrastructure intelligent.
 
-**What I work on**
+**What I work on**:
 
 - Cloud & DevOps: Azure infrastructure design, event-driven architecture (Functions, Service Bus, Event Hubs), AKS, Redis, CI/CD with GitHub Actions + Terraform
 - Security & compliance: Managed Identity, Key Vault, RBAC, PCI DSS, RBI — reducing surface area, not just checking boxes
@@ -16,7 +16,7 @@ Right now, I'm **actively exploring AI** — building agentic systems, experimen
 - Data & analytics: Tableau dashboards, BigQuery pipelines, product analytics — 95K+ LinkedIn impressions and counting
 - Product thinking: user research, feature prioritization, data-driven roadmapping
 
-## About Me
+## About Me:
 
 - **Cloud Engineer at LTIMindtree** — building and securing Azure infrastructure for enterprise-scale production systems; also served as **Cloud Support Engineer at Microsoft** (via LTIMindtree) across APAC, EMEA, and EST regions
 - Creator of **AntiGravity** — an agentic DevOps automation platform with multi-agent orchestration that cuts release cycles by ~50%; and an **AI Agent for Kubernetes Cluster Automation** using CrewAI + OpenAI that reduces manual ops by ~60%
